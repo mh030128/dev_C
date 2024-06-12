@@ -4,7 +4,7 @@ int main()
 {
 	float n1 = 3.14;		// 4 bytes
 	double n2 = 1.234;	// 8 bytes
-	int n3 = 1024;		// 4 yvtes
+	int n3 = 1024;		// 4 bytes
 
 	printf("%f %f %d\n\n", n1, n2, n3);	// 8, 8, 4 (Y, Y, Y)
 
