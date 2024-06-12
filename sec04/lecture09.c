@@ -10,7 +10,7 @@ int main()
 
 	// Note the warnings in output window
 
-	// 4, 4, 4 (N, N, N(
+	// 4, 4, 4 (N, N, N)
 	printf("%d %d %d\n\n", n1, n2, n3);
 	// 8, 8, 4 (N, N, Y)
 	printf("%lld %lld %d\n\n", n1, n2, n3);		// 크기는 맞지만 타입이 맞지 않아 출력이 이상하게 됨, n3는 타입이 맞아서 제대로 출력됨
