@@ -15,6 +15,6 @@ int main()
 	z = x + y;
 
 	printf("zÀÇ °ª: %d", z);
-
+	
 	return 0;
 }
