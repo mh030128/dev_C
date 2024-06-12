@@ -4,7 +4,7 @@
 
 int main()
 {
-	int i = 0, j = 0;	// 변수 선언할 때 초기화하는 것을 권장!
+	int i = 0, j = 0;	// 변수 선언할 때 초기화하는 것을 권장
 	int sum = 0;
 
 	printf("Input two integers\n");
