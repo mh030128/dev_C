@@ -2,7 +2,7 @@
 
 int main()
 {
-	const int TWO = 2;
+	const int TWO = 2;	// const가 붙으면 수정할 수 없음 
 	int a;
 	int b;
 	int c;
